@@ -1,0 +1,10 @@
+notes/
+
+.terraform
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfplan.*
+*.zip
+.DS_Store
